@@ -2,7 +2,7 @@ Proprietary Software License
 
 Copyright (c) 2023 byAbaddon.
 
-ATTENTION: This is a legally binding agreement between you (the licensee) and [Company Name] (the software publisher). Please read it carefully before using the software.
+ATTENTION: This is a legally binding agreement between you licensee and byAbaddon. Please read it carefully before using the software.
 License Grant: The publisher grants you a limited, non-exclusive license to use the software containing this license, provided that you comply with all the terms of this agreement.
 Prohibition on Copying: You are not allowed to copy, reproduce, or create derivative works of the software without the prior permission of the publisher.
 Prohibition on Sale: You do not have the right to sell, transfer, or distribute the software to third parties unless explicitly permitted in writing by the publisher.
