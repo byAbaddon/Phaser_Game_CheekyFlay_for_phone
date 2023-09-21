@@ -26,7 +26,16 @@ Various fun music and effects.
 soon
 
 ## Screenshots:
-soon
+![1](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/194955fc-a618-4b1b-aefb-b9057ec86019)
+![2](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/750327e7-8378-4674-86cd-13b82ddbac88)
+![3](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/c2a99b9a-32e9-4730-a320-51e0c04b42a8)
+![4](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/efe7be6b-ae02-418b-af30-9ad0a3781b97)
+![5](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/e394b43a-2ca0-4041-bc37-4747ca37bc6f)
+![6](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/a8556e4c-f72f-4147-aa09-e796a8ec05ef)
+![7](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/496e148b-0b2e-4d6e-a91b-498889c07034)
+![8](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/f1409003-1b33-4ca5-9ed9-4860cebad53e)
+
+
 
 
 
