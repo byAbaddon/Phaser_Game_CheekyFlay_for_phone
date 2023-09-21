@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "byAbaddon",
-  "license": "MIT",
+  "license": "PSL",
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
