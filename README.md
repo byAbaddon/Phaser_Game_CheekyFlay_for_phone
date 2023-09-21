@@ -33,7 +33,7 @@ soon
 ### Download
 #### Created with Phaser 3 and converted for android mobile app.
 ##### download apk file:
-(https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/releases/tag/cheekyFly)
+https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/releases/tag/cheekyFly
 
 
 ### Prerequisites
