@@ -23,7 +23,7 @@ Various fun music and effects.
 ```
 
 ## Short video intro:
-soon
+https://youtu.be/8Z8y9NVQ-hw
 
 ## Screenshots:
 ![1](https://github.com/byAbaddon/Phaser_Game_CheekyFly_for_phone/assets/51271834/194955fc-a618-4b1b-aefb-b9057ec86019)
