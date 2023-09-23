@@ -14,7 +14,7 @@
 A fun arcade game.
 The goal is to try to collect more fruits and coins in a certain time, from which different points are earned.
 Four levels that repeat themselves but increasing in difficulty and speed.
-Various fun music and effects.
+Various of grat music and fun effects.
 ```diff
 ! P.S.
 @@ Simple player controls. Just double tap to jump. @@
